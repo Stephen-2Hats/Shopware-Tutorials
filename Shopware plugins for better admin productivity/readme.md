@@ -1,0 +1,3 @@
+# Shopware plugins for better admin productivity
+Developing and creating an online presence for your store can be a tedious and challenging process, especially if you are not fluent in the coding language. But in this era of globalization where everything is online, it is imperative to have our...
+[Read more](https://www.2hatslogic.com/blog/shopware-plugins-for-better-admin-productivity/)
