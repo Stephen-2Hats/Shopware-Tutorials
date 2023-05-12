@@ -1,0 +1,3 @@
+# How to update the PHP version in the Shopware docker installation.
+The default PHP version in the docker Shopware installation is PHP 7.4. If you want to update the PHP version to 8 and above, please follow the following instructions.   https://youtu.be/dFQo9wx_EPY   Step 1: Update .psh.yaml.dist file...
+[Read more](https://www.2hatslogic.com/blog/update-php-version-shopware-docker-installation/)
