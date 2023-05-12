@@ -1,0 +1,3 @@
+# Common issues when you migrate plugins from Shopware 6.4 to 6.5
+Migrating plugins from one version to another can be a challenging process, and this is no different when it comes to migrating plugins from Shopware 6.4 to 6.5. With every new release, there are bound to be changes and improvements...
+[Read more](https://www.2hatslogic.com/blog/common-issues-migrate-plugins-shopware-6-4-6-5/)
