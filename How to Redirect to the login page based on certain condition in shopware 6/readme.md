@@ -1,0 +1,3 @@
+# How to Redirect to the login page based on certain condition in shopware 6 ?
+Shopware 6 is a powerful e-commerce platform that provides a wide range of features and customization options. One such customization option is the ability to redirect to the login page based on certain conditions. To redirect to the logi...
+[Read more](https://www.2hatslogic.com/blog/redirect-login-page-based-certain-condition-shopware-6/)
