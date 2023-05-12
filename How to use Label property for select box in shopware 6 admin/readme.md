@@ -1,0 +1,3 @@
+# How to use Label property for select box in shopware 6 admin ?
+In Shopware 6, we have this cool feature of showing labels with database entity field names in the backend administration. If the entity does not have a name field, the label will not be shown in the interface for plugin configuration and custom fields. Let's check with an example Here we are going to add a salutati...
+[Read more](https://www.2hatslogic.com/blog/use-label-property-select-box-shopware-6-admin/)
