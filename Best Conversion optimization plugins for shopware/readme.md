@@ -3,3 +3,4 @@ Online business and an online presence for your business are the common norms in
 
 All e-commerce platforms like Shopware have their own app stores that provide such tools and extensions...
 [Read more](https://www.2hatslogic.com/blog/best-conversion-optimization-plugins-shopware/){:target="_blank"}
+<a href="http://example.com/" target="_blank">Hello, world!</a>
