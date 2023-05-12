@@ -1,0 +1,3 @@
+# Easy and simplified steps to migrate from Shopware 5 to Shopware 6
+As a Shopware user you might be worried about the migration process for transitioning from Shopware 5 to the latest version of Shopware 6. Since Shopware 5 will no longer have any new updates after 2024, the best time to migrate is now! Although Shopware 5 included several functional...
+[Read more](https://www.2hatslogic.com/blog/steps-migrate-shopware-5-shopware-6/)
